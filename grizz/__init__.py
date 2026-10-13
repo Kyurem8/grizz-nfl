@@ -1,0 +1,1 @@
+"""Grizz NFL game ratings."""
