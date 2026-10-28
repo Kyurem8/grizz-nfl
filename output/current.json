@@ -1,6 +1,6 @@
 {
   "version": "0.4.0",
-  "generated_utc": "2026-10-27T16:41:52.990526+00:00",
+  "generated_utc": "2026-10-28T17:11:20.529979+00:00",
   "training_games": 1502,
   "last_game": "2026-10-26",
   "mean_points": 22.3394,
@@ -20,10 +20,10 @@
       "team": "SEA",
       "team_name": "Seahawks",
       "offense": 1.4399,
-      "defense": -4.184,
+      "defense": -4.1841,
       "overall": 5.624,
       "offense_points": 23.7793,
-      "defense_allowed": 18.1554,
+      "defense_allowed": 18.1553,
       "overall_rank": 1,
       "offense_rank": 9,
       "defense_rank": 2,
@@ -56,10 +56,10 @@
       "team": "LAR",
       "team_name": "Rams",
       "offense": 3.0963,
-      "defense": -1.4766,
-      "overall": 4.5729,
+      "defense": -1.4767,
+      "overall": 4.573,
       "offense_points": 25.4357,
-      "defense_allowed": 20.8628,
+      "defense_allowed": 20.8627,
       "overall_rank": 3,
       "offense_rank": 4,
       "defense_rank": 8,
@@ -73,10 +73,10 @@
     {
       "team": "SF",
       "team_name": "49ers",
-      "offense": 3.5072,
+      "offense": 3.5073,
       "defense": -0.2732,
-      "overall": 3.7804,
-      "offense_points": 25.8466,
+      "overall": 3.7805,
+      "offense_points": 25.8467,
       "defense_allowed": 22.0662,
       "overall_rank": 4,
       "offense_rank": 3,
@@ -86,7 +86,7 @@
       "rush_off_epa": 0.0511,
       "rush_def_epa_allowed": -0.0098,
       "score_only_overall": 2.536,
-      "epa_component_overall": 6.4248
+      "epa_component_overall": 6.4252
     },
     {
       "team": "DET",
@@ -110,10 +110,10 @@
       "team": "JAX",
       "team_name": "Jaguars",
       "offense": 2.2404,
-      "defense": -1.2796,
+      "defense": -1.2797,
       "overall": 3.5201,
       "offense_points": 24.5798,
-      "defense_allowed": 21.0598,
+      "defense_allowed": 21.0597,
       "overall_rank": 6,
       "offense_rank": 8,
       "defense_rank": 12,
@@ -344,10 +344,10 @@
       "team": "ATL",
       "team_name": "Falcons",
       "offense": -0.8763,
-      "defense": 0.3357,
+      "defense": 0.3356,
       "overall": -1.2119,
       "offense_points": 21.4631,
-      "defense_allowed": 22.6751,
+      "defense_allowed": 22.675,
       "overall_rank": 19,
       "offense_rank": 20,
       "defense_rank": 18,
@@ -356,7 +356,7 @@
       "rush_off_epa": -0.0047,
       "rush_def_epa_allowed": -0.0097,
       "score_only_overall": -1.1706,
-      "epa_component_overall": -1.2997
+      "epa_component_overall": -1.2996
     },
     {
       "team": "IND",
@@ -392,7 +392,7 @@
       "rush_off_epa": 0.0091,
       "rush_def_epa_allowed": 0.0665,
       "score_only_overall": -0.5263,
-      "epa_component_overall": -3.496
+      "epa_component_overall": -3.4961
     },
     {
       "team": "LAC",
@@ -428,7 +428,7 @@
       "rush_off_epa": 0.0036,
       "rush_def_epa_allowed": 0.1007,
       "score_only_overall": -2.122,
-      "epa_component_overall": -4.691
+      "epa_component_overall": -4.6911
     },
     {
       "team": "NO",
@@ -446,14 +446,14 @@
       "rush_off_epa": -0.068,
       "rush_def_epa_allowed": 0.0316,
       "score_only_overall": -2.3674,
-      "epa_component_overall": -4.4654
+      "epa_component_overall": -4.4653
     },
     {
       "team": "CAR",
       "team_name": "Panthers",
       "offense": -1.0474,
       "defense": 2.2217,
-      "overall": -3.2691,
+      "overall": -3.269,
       "offense_points": 21.292,
       "defense_allowed": 24.5611,
       "overall_rank": 25,
@@ -470,10 +470,10 @@
       "team": "WAS",
       "team_name": "Commanders",
       "offense": -0.1403,
-      "defense": 3.2228,
-      "overall": -3.3632,
+      "defense": 3.2229,
+      "overall": -3.3633,
       "offense_points": 22.1991,
-      "defense_allowed": 25.5622,
+      "defense_allowed": 25.5623,
       "overall_rank": 26,
       "offense_rank": 15,
       "defense_rank": 31,
@@ -482,7 +482,7 @@
       "rush_off_epa": 0.0257,
       "rush_def_epa_allowed": 0.0695,
       "score_only_overall": -2.5675,
-      "epa_component_overall": -5.0541
+      "epa_component_overall": -5.0544
     },
     {
       "team": "CLE",
@@ -518,7 +518,7 @@
       "rush_off_epa": 0.0015,
       "rush_def_epa_allowed": 0.0136,
       "score_only_overall": -3.5027,
-      "epa_component_overall": -4.1998
+      "epa_component_overall": -4.1997
     },
     {
       "team": "MIA",
